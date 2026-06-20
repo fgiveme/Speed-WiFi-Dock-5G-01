@@ -1,7 +1,7 @@
 # Speed-WiFi-Dock-5G-01
 Steps to access Speed WiFi Dock 5G 01 hidden menu:
 
-1/ Update firmware on your device to version 0.41
+1/ Update firmware on your device to version 0.41 (script doesn't work on older firmware)
 
 2/ Create new bookmark in any browser. Edit the bookmark to replace the link with this script:
 
